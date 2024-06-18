@@ -1,4 +1,5 @@
-# pip intsall spacy
+# pip install spacy
+# pip install numpy==1.26
 # python -m spacy download en_core_web_sm
 # https://aka.ms/vs/16/release/vc_redist.x64.exe
 
